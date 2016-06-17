@@ -1,4 +1,4 @@
-package src.copy;
+package src.test.java;
 
 import org.junit.runner.RunWith;
 

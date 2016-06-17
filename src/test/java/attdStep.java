@@ -1,4 +1,4 @@
-package src.copy;
+package src.test.java;
 import org.junit.Assert;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;

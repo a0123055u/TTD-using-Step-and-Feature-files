@@ -1,4 +1,4 @@
-package src.copy;
+package src.test.java;
 
 
 	import java.util.concurrent.TimeUnit;
@@ -15,10 +15,10 @@ package src.copy;
 
 	import junit.framework.Assert;
 
-	public class ExportStep {
+public class ExportStep {
 
 	private WebDriver driver = new FirefoxDriver();
-	//driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+//	driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 	 private String baseUrl = "http://ata123456789123456789.appspot.com/";
 	 String result;
 
