@@ -8,7 +8,7 @@ import cucumber.api.junit.Cucumber;
 
 
 @RunWith(Cucumber.class)
-//@CucumberOptions(features="src/attd.feature")
+@CucumberOptions(features="src/test/java/attd.feature")
 public class TestRunner {
 	
 	
